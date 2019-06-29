@@ -16,7 +16,7 @@
   <div>
     <Route path="/" component="{index}" />
     <Route path="/about" component="{about}" />
-    <Route path="/cotact" component="{contact}" />
+    <Route path="/contact" component="{contact}" />
     <Route path="/"><index /></Route>
   </div>
 </Router>
